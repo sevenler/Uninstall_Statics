@@ -1,7 +1,7 @@
-Uninstall_Statics
+Uninstall_Statistics
 =================
 
-统计 应用 自身被 卸载 Android Statistical application is uninstalled
+统计 应用 自身被 卸载 Android statistics application is uninstalled
 
 参考自这篇blog
 
